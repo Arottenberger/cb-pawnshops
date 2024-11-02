@@ -3,12 +3,12 @@ Config.Debug = true
 Config.InventoryImage = "ox_inventory/web/images/"  -- Source of inventory images (QB INVENTORY: "qb-inventory/html/images/")
 Config.ClosedShops = {
     [1] = {
-        job = "whitewidow",
+        job = "police",
         coords = vec4(200.72, -235.76, 53.0, 300.26),
         label = "Open Shop",
         weight = 999999,
         allowedItems = {
-            "weed_ak47_baggy",
+            "water",
             "weed_amnesia_baggy",
             "weed_zkittlez_baggy",
             "weed_ogkush_baggy",
@@ -21,5 +21,5 @@ Config.ClosedShops = {
     }
 }
 
-Config.WebhookName = "Cool Brad Scripts"
-Config.WebhookUrl = "https://discord.com/api/webhooks/1292182241757364224/yhAdmscthjGKG_x2ACL79qSG_neeQVwC6E1xEgo4ohw5EllW7eC-l35Njrgo-BMCBpJY"
+Config.WebhookName = "Kewl Kewl Kewl"
+Config.WebhookUrl = "https://discord.com/api/webhooks/1299874509104484372/AoKpYfBoRTyzG3PREdW8fuYALfx7U_HEMFZog-pM8ClafAPm2PkG8VJ26ukeYTL28s2G"
